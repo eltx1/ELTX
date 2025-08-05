@@ -13,5 +13,5 @@ Multi-Chain token aiming to empower decentralized finance and transparent commun
 
 ## Social Links
 - Twitter: https://x.com/ELTX_Official
-- Telegram: [link]
-- Discord: [link]
+- Telegram Channel: https://t.me/eltx_official
+- Telegram Group: https://t.me/eltx_chat
