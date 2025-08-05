@@ -12,6 +12,6 @@ Multi-Chain token aiming to empower decentralized finance and transparent commun
 - **Whitepaper**: Coming soon
 
 ## Social Links
-- Twitter: [link]
+- Twitter: https://x.com/ELTX_Official
 - Telegram: [link]
 - Discord: [link]
