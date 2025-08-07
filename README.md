@@ -16,3 +16,4 @@ ELTX is a multi-chain community token with a strong emphasis on utility, social 
 - Telegram Channel: https://t.me/eltx_official
 - Telegram Group: https://t.me/eltx_chat
 - Whitepaper: https://docs.google.com/document/d/1GvKvPaaUwEH7oVHFG7AnQsAlfQCr7yeM/mobilebasic
+- Trade in DEX: https://jup.ag/tokens/HL2tm9Xp8yRNr5tSonu2HGn9JKzQrLeke4PTVBQyaCGC
